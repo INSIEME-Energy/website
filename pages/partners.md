@@ -7,7 +7,7 @@ teaser              : "These are the partners of the amazing INSIEME project."
 header:
    title: Project partnersreressss
    subtitle: testst
-   image_fullwidth  : "header_hompage_13.jpg"
+   image_fullwidth  : "EDDIE_background4.jpg"
    caption: test-caption
 caption             : "blabla"
 permalink           : "/partners/"
