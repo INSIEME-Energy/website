@@ -1,12 +1,12 @@
 ---
 layout              : page
 title               : ""
-meta_title          : "Contact"
 subheadline         : ""
-teaser              : "Get in touch with us using the contact form."
-permalink           : "/contact/"
+teaser              : ""
 header:
-   title: Contact
    image_fullwidth  : "EDDIE_background4.jpg"
+   title: News
+permalink           : "/news/"
 ---
+
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
