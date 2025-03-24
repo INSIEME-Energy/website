@@ -7,6 +7,7 @@
 layout: page
 header:
   image_fullwidth: EDDIE_background4.jpg
+  title: About INSIEME
 #widget1:
 #  title: "Blog & Portfolio"
 #  url: 'http://phlow.github.io/feeling-responsive/blog/'
