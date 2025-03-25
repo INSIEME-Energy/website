@@ -15,7 +15,7 @@ tags:
 #
 header: no
 image:
-    title: insieme-kickoff.jpg
+    title: insieme-kickoff-header.jpg
     thumb: insieme-kickoff-thumb.jpg
     homepage: EDDIE_background4.jpg
     caption: Picture by ChatGPT
