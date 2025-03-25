@@ -11,7 +11,7 @@
 title: 'INSIEME'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'Isdfsd.fkds.fA Flexible Theme for Jekyll'
+slogan: 'Together towards the Common European Energy Data Space'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
@@ -60,6 +60,7 @@ plugins:
 #
 paginate: 5                      # Paginates all X entries
 paginate_path: "blog/page:num"   # Pagination path › Important for blog page in /blog/ to work
+#paginate_path: "news/page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
 # Theme works best with Kramdown (using the table of contents function)

@@ -4,7 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: page
+layout: page-fullwidth
 header:
   image_fullwidth: EDDIE_background4.jpg
   title: About INSIEME
@@ -45,4 +45,8 @@ permalink: /index.html
 homepage: true
 ---
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit cursus nunc,
+The goal of the **INSIEME project** is deploying a secure and reliable **Common European Energy Data Space (CEEDS)**, as part of the European Strategy for Data and the EU Action Plan on digitalising the energy system. It supports the clean energy transition, improve energy resilience and security, and fosters innovation through data sharing. Furthermore, the project will facilitate the use of advanced technologies like **AI, Edge Computing, and Digital Twins** for optimizing electricity grids and enhancing energy efficiency in buildings.
+
+**INSIEME** will address key use cases, such as the integration of **intermittent renewables, smart energy components, smart homes**, and **sector coupling** — linking various energy carriers and sectors (like transport and industry). Collaboration with related sectors (mobility, smart communities) and initiatives (DSSC, SIMPL, DSBA, CoE-DSC) will be prioritized to ensure interoperability and cross-domain data sharing.
+
+Ultimately, INSIEME will promote **sustainable business models, citizen empowerment, investment readiness**, and **new business opportunities**, with practical guidance and frameworks for stakeholders to drive the energy transition in line with **Fit for 55** and **RePowerEU** objectives.
