@@ -6,9 +6,9 @@
   url: "/blog/"
   side: left
 
-- title: Media Library
-  url: "/media-library/"
-  side: left
+#- title: Media Library
+#  url: "/media-library/"
+#  side: left
 
 - title: Partners
   url: "/partners/"
