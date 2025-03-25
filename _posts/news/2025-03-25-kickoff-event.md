@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 #
 # Content
 #
@@ -18,7 +18,7 @@ image:
     title: insieme-kickoff-header.jpg
     thumb: insieme-kickoff-thumb.jpg
     homepage: EDDIE_background4.jpg
-    caption: Picture by ChatGPT
+    caption: 
 mediaplayer: false
 ---
 This kickoff meeting marks the beginning of an exciting collaboration between XXXX partners from XYZ countries. Over the course of the two days, participants will have the opportunity to get to know each other, align on project goals and timelines, and set the foundation for successful cooperation.
