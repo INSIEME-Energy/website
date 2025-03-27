@@ -22,12 +22,12 @@ permalink           : "/partners/"
 ## Consortial Partners
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}partnerlogos/Adaion-azul-verde.png" alt="" width="240">
+        <img src="{{ site.urlimg }}partnerlogos/Adaion.jpg" alt="" width="240">
         <p>Website: <a href="https://www.adaion.energy/">Adaion</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}partnerlogos/aelec_positivo_RGB.jpg" alt="" width="240">
+        <img src="{{ site.urlimg }}partnerlogos/aelec.jpg" alt="" width="240">
         <p>Website: <a href="https://aelec.es/">Aelec</a></p>
     </div><!-- /.medium-4.columns -->
 
