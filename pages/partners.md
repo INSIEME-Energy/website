@@ -69,3 +69,20 @@ permalink           : "/partners/"
         <p>Website: <a href="https://www.ceve.pt/">Ceve</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}partnerlogos/cuerva.png" alt="" width="240">
+        <p>Website: <a href="https://cuervaenergia.com/en/">Cuerva</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}partnerlogos/d4g.png" alt="" width="240">
+        <p>Website: <a href="https://www.digital4grids.com/">Digital 4 Grids</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}partnerlogos/datadis.png" alt="" width="240">
+        <p>Website: <a href="https://datadis.es/">Datadis</a></p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
