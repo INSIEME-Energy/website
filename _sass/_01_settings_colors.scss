@@ -11,6 +11,14 @@
 
 */
 
+/* EDDIE colours
+------------------------------------------------------------------- */
+$eddie-navyblue      : #017aa0;
+$eddie-lightblue     : #1da7e0;
+$eddie-yellow        : #ffd208;
+$eddie-pink          : #ea5297;
+$eddie-green         : #91c042;
+
 
 
 /* Basics
@@ -31,7 +39,7 @@ $ci-2               : #45B29D; // turquoise
 $ci-3               : #EFC94C; // yellow
 $ci-4               : #E27A3F; // orange
 $ci-5               : #DF4949; // red
-$ci-6               : #91c042; //A1D044; // green
+$ci-6               : #A1D044; // green
 
 
 
@@ -84,14 +92,14 @@ $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
 $topbar-dropdown-label-color: $ci-2;
-$topbar-dropdown-link-bg-hover: $ci-6;
+$topbar-dropdown-link-bg-hover: $eddie-lightblue; //$ci-6;
 
-$topbar-link-bg-active: $ci-6; // Active Navigation Link
-$topbar-link-bg-hover: $ci-6;
+$topbar-link-bg-active: $eddie-lightblue; //$ci-6; // Active Navigation Link
+$topbar-link-bg-hover: $eddie-lightblue; //$ci-6;
 $topbar-link-bg-active-hover: $ci-2;
 
 
-$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
+$topbar-dropdown-bg: $eddie-lightblue; //$ci-6; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
 $topbar-dropdown-link-bg: $ci-2;
 
@@ -99,8 +107,8 @@ $topbar-menu-link-color-toggled: $ci-1;
 $topbar-menu-icon-color-toggled: $ci-1;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-6;
-$topbar-menu-icon-color-toggled: $ci-6;
+$topbar-menu-link-color-toggled: $eddie-lightblue; //$ci-6;
+$topbar-menu-icon-color-toggled: $eddie-lightblue; //$ci-6;
 
 
 
@@ -112,9 +120,9 @@ $footer-color       : #fff;
 $footer-link-color  : $ci-6;
 
 
-$subfooter-bg       : $grey-13;
-$subfooter-color    : $grey-8;
-$subfooter-link-color: $grey-8;
+$subfooter-bg       : $eddie-navyblue; //$grey-13;
+$subfooter-color    : #FFFFFF; //$grey-8;
+$subfooter-link-color: $eddie-green; //$grey-8;
 
 
 

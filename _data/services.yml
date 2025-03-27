@@ -1,22 +1,22 @@
 - menu_name: "Services"
 
-- name: "Contact"   #TODO
+- name: "Contact"
   url: "/contact/"
   title: "Contact"
 
-- name: "Newsletter"    #TODO
-  url: "/feed.xml"
-  title: "Subscribe to the newsletter"
+#- name: "Newsletter"    #TODO
+#  url: "/feed.xml"
+#  title: "Subscribe to the newsletter"
 
-- name: "Privacy"   #TODO
+- name: "TODO: Privacy"   #TODO
   url: "/atom.xml"
   title: "Privacy"
 
-- name: "Cookies"
+- name: "TODO: Cookies"
   url: "/atom.xml"  #TODO
   title: "Cookies"
 
 
-- name: "sitemap.xml"   # TODO
-  url: "/sitemap.xml"
-  title: "Sitemap for Google Webmaster Tools"
+#- name: "sitemap.xml"   # TODO
+#  url: "/sitemap.xml"
+#  title: "Sitemap for Google Webmaster Tools"
