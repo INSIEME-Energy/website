@@ -36,3 +36,20 @@ permalink           : "/partners/"
         <p>Website: <a href="https://www.alliander-netz.de/alliander-ag/">Alliander</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}partnerlogos/apg.png" alt="" width="240">
+        <p>Website: <a href="https://www.apg.at/en/">Austrian Power Grid</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}partnerlogos/areti.png" alt="" width="240">
+        <p>Website: <a href="https://www.areti.it/">Areti</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}partnerlogos/backboneone.png" alt="" width="240">
+        <p>Website: <a href="https://www.backbone.one/">Backbone one</a></p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
