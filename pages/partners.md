@@ -14,7 +14,7 @@ permalink           : "/partners/"
 ## Project Coordinator
 <div class="row t60">
     <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}fhooe.jpg" alt="">
+        <img src="{{ site.urlimg }}partnerlogos/fhooe.jpg" alt="">
         <p>Website: <a href="https://fhooe.at">University of Applied Sciences Upper Austria</a></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
