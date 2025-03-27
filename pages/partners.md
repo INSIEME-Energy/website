@@ -7,11 +7,10 @@ teaser              : ""
 header:
    title: Consortial Partners
    image_fullwidth  : "EDDIE_background4.jpg"
-   caption: test-caption
 caption             : ""
 permalink           : "/partners/"
 ---
-## Project Coordinator
+# Project Coordinator
 <div class="row t60">
     <div class="medium-6 columns b30">
         <img src="{{ site.urlimg }}partnerlogos/fhooe.jpg" alt="" width="240">
@@ -19,7 +18,7 @@ permalink           : "/partners/"
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
-## Consortial Partners
+# Consortial Partners
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}partnerlogos/Adaion.png" alt="" width="240">
@@ -51,5 +50,22 @@ permalink           : "/partners/"
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}partnerlogos/backboneone.png" alt="" width="240">
         <p>Website: <a href="https://www.backbone.one/">Backbone one</a></p>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}partnerlogos/cbs.png" alt="" width="240">
+        <p>Website: <a href="https://www.cbs.dk/">Copenhagen Business School</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}partnerlogos/centerdenmark.png" alt="" width="240">
+        <p>Website: <a href="https://www.centerdenmark.com/">Center Denmark intelligent energy</a></p>
+    </div><!-- /.medium-4.columns -->
+
+    <div class="medium-4 columns">
+        <img src="{{ site.urlimg }}partnerlogos/ceve.png" alt="" width="240">
+        <p>Website: <a href="https://www.ceve.pt/">Ceve</a></p>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
