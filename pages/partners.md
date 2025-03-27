@@ -21,7 +21,7 @@ permalink           : "/partners/"
 # Consortial Partners
 <div class="row t30">
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}partnerlogos/Adaion.png" alt="" width="240">
+        <img src="{{ site.urlimg }}partnerlogos/Adaion.png" alt="" width="240" title="Adaion">
         <p>Website: <a href="https://www.adaion.energy/">Adaion</a></p>
     </div><!-- /.medium-4.columns -->
 
@@ -73,7 +73,7 @@ permalink           : "/partners/"
 <div class="row t30">
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}partnerlogos/cuerva.png" alt="" width="240">
-        <p>Website: <a href="https://cuervaenergia.com/en/">Cuerva</a></p>
+        <p>Website: <a href="https://cuervaenergia.com/en/">Cuerva Energia</a></p>
     </div><!-- /.medium-4.columns -->
 
     <div class="medium-4 columns">
