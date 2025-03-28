@@ -41,10 +41,9 @@ permalink           : "/partners/"
         <a href="https://www.grupoetra.com/"><img src="{{ site.urlimg }}partnerlogos/ETRA.jpg" alt="ETRA" width="240" title="ETRA"></a>
     </div><!-- /.medium-4.columns -->
 </div><!-- /.row -->
-# Consortial Partners
 <div class="row t30">
     <div class="medium-4 columns zoom">
-        <a href="https://www.d4g.com/"><img src="{{ site.urlimg }}partnerlogos/D4G.jpg" alt="d4g" width="240" title="Digital 4 Grids"></a>
+        <a href="https://www.d4g.com/"><img src="{{ site.urlimg }}partnerlogos/d4g.jpg" alt="d4g" width="240" title="Digital 4 Grids"></a>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns zoom">
         <a href="https://eref-europe.org/"><img src="{{ site.urlimg }}partnerlogos/enercoutim.jpg" alt="Enercoutim" width="240" title="Enercoutim Alcoutim Solar Energy Association"></a>
