@@ -32,6 +32,18 @@ permalink           : "/partners/"
 # Consortial Partners
 <div class="row t30">
     <div class="medium-4 columns zoom">
+        <a href="https://www.enedis.fr/"><img src="{{ site.urlimg }}partnerlogos/Enedis.jpg" alt="" width="240" title="Enedis"></a>
+    </div><!-- /.medium-4.columns -->
+    <div class="medium-4 columns zoom">
+        <a href="https://eref-europe.org/"><img src="{{ site.urlimg }}partnerlogos/EREF.jpg" alt="" width="240" title="EREF European Renewable Energies Federation"></a>
+    </div><!-- /.medium-4.columns -->
+    <div class="medium-4 columns zoom">
+        <a href="https://www.grupoetra.com/"><img src="{{ site.urlimg }}partnerlogos/ETRA.jpg" alt="" width="240" title="ETRA"></a>
+    </div><!-- /.medium-4.columns -->
+</div><!-- /.row -->
+---------------------------
+<div class="row t30">
+    <div class="medium-4 columns zoom">
         <a href="https://www.adaion.energy/"><img src="{{ site.urlimg }}partnerlogos/Adaion.jpg" alt="" width="240" title="Adaion"></a>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
