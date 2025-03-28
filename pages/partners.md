@@ -10,22 +10,32 @@ header:
 caption             : ""
 permalink           : "/partners/"
 ---
+<style>
+.zoom {
+  padding: 20px;
+  transition: transform 1s; /* Animation */
+  margin: 0 auto;
+}
+
+.zoom:hover {
+  transform: scale(1.1); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+</style>
+
 # Project Coordinator
 <div class="row t60">
-    <div class="medium-6 columns b30">
-        <img src="{{ site.urlimg }}partnerlogos/fhooe.jpg" alt="" width="240">
-        <p>Website: <a href="https://fh-ooe.at/en">University of Applied Sciences Upper Austria</a></p>
+    <div class="medium-6 columns b30 zoom">
+        <a href="https://fh-ooe.at/en/"><img src="{{ site.urlimg }}partnerlogos/fhooe.jpg" alt="" width="240" title="University of Applied Sciences Upper Austria"></a>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
 # Consortial Partners
 <div class="row t30">
-    <div class="medium-4 columns">
-        <p>Website: <a href="https://www.adaion.energy/"><img src="{{ site.urlimg }}partnerlogos/Adaion.png" alt="" width="240" title="Adaion"></a></p>
+    <div class="medium-4 columns zoom">
+        <a href="https://www.adaion.energy/"><img src="{{ site.urlimg }}partnerlogos/Adaion.jpg" alt="" width="240" title="Adaion"></a>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
-        <img src="{{ site.urlimg }}partnerlogos/aelec.png" alt="" width="240">
-        <p>Website: <a href="https://aelec.es/">Aelec</a></p>
+        <a href="https://aelec.es/"><img src="{{ site.urlimg }}partnerlogos/aelec.png" alt="" width="240" title="Aelec"></a>
     </div><!-- /.medium-4.columns -->
     <div class="medium-4 columns">
         <img src="{{ site.urlimg }}partnerlogos/Alliander.png" alt="" width="240">

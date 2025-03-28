@@ -17,7 +17,7 @@ slogan: 'Together towards the Common European Energy Data Space'
 description: ''
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>This project has received co-funding by the European Unions Horizon Europe Innovation Actions under grant agreement no. 101194952??.</p>'
+credits: '<p>This project has received co-funding by the European Unions Horizon Europe Innovation Actions under grant agreement no. 101194952.</p>'
 
 # Main author of the website
 # See > authors.yml

@@ -1,7 +1,7 @@
-- name: GitHub
-  url: http://github.com/INSIEME-Energy
-  class: icon-github
-  title: Code and more...
+#- name: GitHub
+#  url: http://github.com/INSIEME-Energy
+#  class: icon-github
+#  title: Code and more...
 
 - name: YouTube
   url: https://www.youtube.com/@eddie.energy
