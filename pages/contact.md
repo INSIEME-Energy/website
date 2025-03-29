@@ -15,8 +15,8 @@ If you have any questions, concerns, or a specific interest in the topics covere
   <div class="columns small-3"><img src="../images/Oliver-6b428cd4.jpg" alt="nix"></div>
   <div class="columns small-9">
       <p>For any questions regarding the coordination please contact:</p>
-      <p><b>Prof. (FH) Dr. Oliver Hödl<br/>Project Coordinator</b></p>
-      Email: office@eddie.energy<br/>
+      <p><b>FH-Prof. PD DI Dr. Oliver Hödl<br/>Project Coordinator</b></p>
+      Email: oliver.hoedl@fh-hagenberg.at<br/>
       Phone: +43 660 682 71 38</div>
 </div>
 <div class="row">
@@ -28,6 +28,6 @@ If you have any questions, concerns, or a specific interest in the topics covere
   <div class="columns small-9">
       <p>For any questions regarding the technical coordination please contact:</p>
       <p><b>DI Georg Hartner<br/>Technical Coordinator</b></p>
-      Email: office@eddie.energy<br/>
+      Email: georg.hartner@fh-hagenberg.at<br/>
       Phone: +43 660 682 71 38</div>
 </div>
